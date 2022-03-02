@@ -1,1 +1,2420 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"1994":2,"1998":"","2002":"","2006":"","2010":"","2014":"","2018":"","2022":1,"Country":"American Samoa"},"geometry":{"type":"Point","coordinates":[-17.778926,-14.333216]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":1,"2010":1,"2014":2,"2018":2,"2022":1,"Country":"Albania"},"geometry":{"type":"Point","coordinates":[20.127352,40.647186]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":2,"2010":1,"2014":"","2018":"","2022":"","Country":"Algeria"},"geometry":{"type":"Point","coordinates":[3.379277,2.789689]}},{"type":"Feature","properties":{"1994":6,"1998":3,"2002":3,"2006":3,"2010":6,"2014":6,"2018":5,"2022":5,"Country":"Andorra"},"geometry":{"type":"Point","coordinates":[1.576286,42.547076]}},{"type":"Feature","properties":{"1994":10,"1998":2,"2002":11,"2006":9,"2010":7,"2014":7,"2018":7,"2022":6,"Country":"Argentina"},"geometry":{"type":"Point","coordinates":[-64.168459,-33.528049]}},{"type":"Feature","properties":{"1994":2,"1998":7,"2002":9,"2006":5,"2010":4,"2014":4,"2018":3,"2022":6,"Country":"Armenia"},"geometry":{"type":"Point","coordinates":[4.480561,40.474724]}},{"type":"Feature","properties":{"1994":25,"1998":23,"2002":27,"2006":40,"2010":40,"2014":61,"2018":50,"2022":44,"Country":"Australia"},"geometry":{"type":"Point","coordinates":[134.050443,-23.992438]}},{"type":"Feature","properties":{"1994":80,"1998":96,"2002":90,"2006":85,"2010":81,"2014":130,"2018":105,"2022":106,"Country":"Austria"},"geometry":{"type":"Point","coordinates":[14.143702,47.522617]}},{"type":"Feature","properties":{"1994":"","1998":4,"2002":4,"2006":2,"2010":2,"2014":4,"2018":1,"2022":2,"Country":"Azerbaijan"},"geometry":{"type":"Point","coordinates":[47.210994,40.402387]}},{"type":"Feature","properties":{"1994":33,"1998":59,"2002":64,"2006":28,"2010":51,"2014":26,"2018":33,"2022":29,"Country":"Belarus"},"geometry":{"type":"Point","coordinates":[2.843651,53.832259]}},{"type":"Feature","properties":{"1994":5,"1998":1,"2002":6,"2006":4,"2010":8,"2014":7,"2018":22,"2022":19,"Country":"Belgium"},"geometry":{"type":"Point","coordinates":[4.792712,50.780688]}},{"type":"Feature","properties":{"1994":1,"1998":1,"2002":1,"2006":1,"2010":1,"2014":1,"2018":1,"2022":"","Country":"Bermuda"},"geometry":{"type":"Point","coordinates":[-64.764346,32.296698]}},{"type":"Feature","properties":{"1994":928,"1998":"","2002":"","2006":"","2010":"","2014":"","2018":"","2022":2,"Country":"Bolivia"},"geometry":{"type":"Point","coordinates":[-64.661,-16.640652]}},{"type":"Feature","properties":{"1994":10,"1998":8,"2002":2,"2006":6,"2010":5,"2014":5,"2018":4,"2022":6,"Country":"Bosnia and Herzegovina"},"geometry":{"type":"Point","coordinates":[1.806843,44.091039]}},{"type":"Feature","properties":{"1994":1,"1998":1,"2002":10,"2006":10,"2010":5,"2014":13,"2018":9,"2022":10,"Country":"Brazil"},"geometry":{"type":"Point","coordinates":[-49.542449,-11.928923]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":1,"2018":"","2022":"","Country":"British Virgin Islands"},"geometry":{"type":"Point","coordinates":[-6.463661,18.426606]}},{"type":"Feature","properties":{"1994":17,"1998":19,"2002":23,"2006":21,"2010":19,"2014":18,"2018":21,"2022":16,"Country":"Bulgaria"},"geometry":{"type":"Point","coordinates":[25.176846,42.501868]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":1,"2006":"","2010":"","2014":"","2018":"","2022":"","Country":"Cameroon"},"geometry":{"type":"Point","coordinates":[12.473672,4.585076]}},{"type":"Feature","properties":{"1994":95,"1998":144,"2002":150,"2006":196,"2010":206,"2014":222,"2018":225,"2022":215,"Country":"Canada"},"geometry":{"type":"Point","coordinates":[-112.384858,5.833747]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":1,"2014":1,"2018":"","2022":"","Country":"Cayman Islands"},"geometry":{"type":"Point","coordinates":[-81.230744,19.319996]}},{"type":"Feature","properties":{"1994":3,"1998":3,"2002":6,"2006":9,"2010":3,"2014":6,"2018":7,"2022":4,"Country":"Chile"},"geometry":{"type":"Point","coordinates":[-72.288079,-38.165295]}},{"type":"Feature","properties":{"1994":24,"1998":55,"2002":66,"2006":76,"2010":90,"2014":66,"2018":80,"2022":176,"Country":"China"},"geometry":{"type":"Point","coordinates":[106.431983,32.523743]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":1,"2014":"","2018":4,"2022":3,"Country":"Colombia"},"geometry":{"type":"Point","coordinates":[-73.166783,3.420497]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":1,"2006":1,"2010":"","2014":"","2018":"","2022":"","Country":"Costa Rica"},"geometry":{"type":"Point","coordinates":[-84.028584,10.068183]}},{"type":"Feature","properties":{"1994":3,"1998":6,"2002":14,"2006":23,"2010":19,"2014":11,"2018":19,"2022":11,"Country":"Croatia"},"geometry":{"type":"Point","coordinates":[16.375139,45.805356]}},{"type":"Feature","properties":{"1994":1,"1998":1,"2002":1,"2006":1,"2010":2,"2014":2,"2018":1,"2022":1,"Country":"Cyprus"},"geometry":{"type":"Point","coordinates":[33.011051,34.881852]}},{"type":"Feature","properties":{"1994":63,"1998":60,"2002":76,"2006":85,"2010":92,"2014":85,"2018":93,"2022":113,"Country":"Czech Republic"},"geometry":{"type":"Point","coordinates":[15.377705,4.988233]}},{"type":"Feature","properties":{"1994":4,"1998":12,"2002":11,"2006":5,"2010":18,"2014":12,"2018":17,"2022":62,"Country":"Denmark"},"geometry":{"type":"Point","coordinates":[9.018163,55.966966]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":2,"2018":"","2022":"","Country":"Dominica"},"geometry":{"type":"Point","coordinates":[-61.356841,15.460196]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":"","2018":1,"2022":1,"Country":"Timor-Leste"},"geometry":{"type":"Point","coordinates":[125.866054,-8.801828]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":"","2018":1,"2022":1,"Country":"Ecuador"},"geometry":{"type":"Point","coordinates":[-78.322784,-1.241567]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":"","2018":1,"2022":1,"Country":"Eritrea"},"geometry":{"type":"Point","coordinates":[38.267404,15.817362]}},{"type":"Feature","properties":{"1994":26,"1998":20,"2002":17,"2006":26,"2010":30,"2014":24,"2018":22,"2022":26,"Country":"Estonia"},"geometry":{"type":"Point","coordinates":[25.867131,58.722853]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":1,"2014":"","2018":"","2022":"","Country":"Ethiopia"},"geometry":{"type":"Point","coordinates":[38.896778,7.996115]}},{"type":"Feature","properties":{"1994":1,"1998":"","2002":1,"2006":1,"2010":"","2014":"","2018":"","2022":"","Country":"Fiji"},"geometry":{"type":"Point","coordinates":[177.972004,-17.834016]}},{"type":"Feature","properties":{"1994":61,"1998":85,"2002":98,"2006":102,"2010":95,"2014":103,"2018":100,"2022":95,"Country":"Finland"},"geometry":{"type":"Point","coordinates":[27.276469,63.252357]}},{"type":"Feature","properties":{"1994":98,"1998":106,"2002":114,"2006":89,"2010":108,"2014":105,"2018":106,"2022":86,"Country":"France"},"geometry":{"type":"Point","coordinates":[2.549047,46.698481]}},{"type":"Feature","properties":{"1994":5,"1998":4,"2002":4,"2006":3,"2010":6,"2014":4,"2018":4,"2022":9,"Country":"Georgia"},"geometry":{"type":"Point","coordinates":[-83.380775,3.253951]}},{"type":"Feature","properties":{"1994":112,"1998":125,"2002":157,"2006":164,"2010":153,"2014":153,"2018":156,"2022":149,"Country":"Germany"},"geometry":{"type":"Point","coordinates":[9.62743,51.196755]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":"","2018":1,"2022":1,"Country":"Ghana"},"geometry":{"type":"Point","coordinates":[-0.982714,7.85125]}},{"type":"Feature","properties":{"1994":32,"1998":34,"2002":49,"2006":40,"2010":52,"2014":56,"2018":58,"2022":50,"Country":"Great Britain"},"geometry":{"type":"Point","coordinates":[77.193239,28.598323]}},{"type":"Feature","properties":{"1994":9,"1998":13,"2002":10,"2006":5,"2010":7,"2014":7,"2018":4,"2022":5,"Country":"Greece"},"geometry":{"type":"Point","coordinates":[21.708535,3.978331]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":"","2018":"","2022":1,"Country":"Haiti"},"geometry":{"type":"Point","coordinates":[-54.963657,-34.912318]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":2,"2006":1,"2010":1,"2014":1,"2018":1,"2022":3,"Country":"Hong Kong"},"geometry":{"type":"Point","coordinates":[11.415769,2.228552]}},{"type":"Feature","properties":{"1994":16,"1998":17,"2002":25,"2006":20,"2010":16,"2014":16,"2018":19,"2022":14,"Country":"Hungary"},"geometry":{"type":"Point","coordinates":[19.447899,47.086857]}},{"type":"Feature","properties":{"1994":5,"1998":7,"2002":6,"2006":5,"2010":4,"2014":5,"2018":5,"2022":5,"Country":"Iceland"},"geometry":{"type":"Point","coordinates":[-18.673522,64.779262]}},{"type":"Feature","properties":{"1994":"","1998":1,"2002":1,"2006":4,"2010":3,"2014":3,"2018":2,"2022":1,"Country":"India"},"geometry":{"type":"Point","coordinates":[79.132924,22.412321]}},{"type":"Feature","properties":{"1994":"","1998":1,"2002":2,"2006":2,"2010":4,"2014":5,"2018":4,"2022":3,"Country":"Iran"},"geometry":{"type":"Point","coordinates":[55.245317,31.931398]}},{"type":"Feature","properties":{"1994":"","1998":6,"2002":6,"2006":4,"2010":7,"2014":5,"2018":5,"2022":6,"Country":"Ireland"},"geometry":{"type":"Point","coordinates":[-7.798618,53.078731]}},{"type":"Feature","properties":{"1994":1,"1998":3,"2002":5,"2006":5,"2010":3,"2014":5,"2018":10,"2022":6,"Country":"Israel"},"geometry":{"type":"Point","coordinates":[34.860794,30.902941]}},{"type":"Feature","properties":{"1994":104,"1998":112,"2002":112,"2006":184,"2010":109,"2014":113,"2018":120,"2022":118,"Country":"Italy"},"geometry":{"type":"Point","coordinates":[11.077303,44.732552]}},{"type":"Feature","properties":{"1994":4,"1998":6,"2002":2,"2006":"","2010":1,"2014":2,"2018":3,"2022":7,"Country":"Jamaica"},"geometry":{"type":"Point","coordinates":[-73.795405,4.070009]}},{"type":"Feature","properties":{"1994":57,"1998":156,"2002":103,"2006":112,"2010":94,"2014":113,"2018":124,"2022":124,"Country":"Japan"},"geometry":{"type":"Point","coordinates":[138.441899,3.613793]}},{"type":"Feature","properties":{"1994":29,"1998":60,"2002":50,"2006":56,"2010":38,"2014":52,"2018":46,"2022":34,"Country":"Kazakhstan"},"geometry":{"type":"Point","coordinates":[69.258345,48.401963]}},{"type":"Feature","properties":{"1994":"","1998":1,"2002":1,"2006":1,"2010":"","2014":"","2018":1,"2022":"","Country":"Kenya"},"geometry":{"type":"Point","coordinates":[37.918308,0.543716]}},{"type":"Feature","properties":{"1994":"","1998":8,"2002":"","2006":6,"2010":2,"2014":"","2018":10,"2022":"","Country":"North Korea"},"geometry":{"type":"Point","coordinates":[126.699424,40.248916]}},{"type":"Feature","properties":{"1994":21,"1998":37,"2002":48,"2006":40,"2010":46,"2014":71,"2018":122,"2022":64,"Country":"South Korea"},"geometry":{"type":"Point","coordinates":[128.123986,36.382192]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":"","2018":1,"2022":2,"Country":"Kosovo"},"geometry":{"type":"Point","coordinates":[20.875449,42.590239]}},{"type":"Feature","properties":{"1994":1,"1998":1,"2002":2,"2006":1,"2010":2,"2014":1,"2018":2,"2022":1,"Country":"Kyrgyzstan"},"geometry":{"type":"Point","coordinates":[74.524734,4.168268]}},{"type":"Feature","properties":{"1994":27,"1998":29,"2002":47,"2006":58,"2010":59,"2014":58,"2018":34,"2022":57,"Country":"Latvia"},"geometry":{"type":"Point","coordinates":[25.458464,5.706689]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":3,"2010":3,"2014":2,"2018":3,"2022":3,"Country":"Lebanon"},"geometry":{"type":"Point","coordinates":[3.595658,34.095838]}},{"type":"Feature","properties":{"1994":10,"1998":8,"2002":8,"2006":6,"2010":7,"2014":4,"2018":3,"2022":"","Country":"Liechtenstein"},"geometry":{"type":"Point","coordinates":[9.559439,47.111405]}},{"type":"Feature","properties":{"1994":6,"1998":7,"2002":8,"2006":7,"2010":8,"2014":9,"2018":9,"2022":13,"Country":"Lithuania"},"geometry":{"type":"Point","coordinates":[24.089932,55.103703]}},{"type":"Feature","properties":{"1994":1,"1998":1,"2002":"","2006":1,"2010":"","2014":1,"2018":1,"2022":2,"Country":"Luxembourg"},"geometry":{"type":"Point","coordinates":[6.086636,49.759178]}},{"type":"Feature","properties":{"1994":"","1998":3,"2002":2,"2006":3,"2010":3,"2014":3,"2018":3,"2022":"","Country":"Macedonia"},"geometry":{"type":"Point","coordinates":[21.547313,41.569245]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":"","2018":1,"2022":2,"Country":"Madagascar"},"geometry":{"type":"Point","coordinates":[46.704055,-18.628414]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":"","2018":2,"2022":2,"Country":"Malaysia"},"geometry":{"type":"Point","coordinates":[113.833569,2.521947]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":1,"2018":1,"2022":1,"Country":"Malta"},"geometry":{"type":"Point","coordinates":[14.431432,35.888972]}},{"type":"Feature","properties":{"1994":1,"1998":"","2002":3,"2006":"","2010":1,"2014":1,"2018":4,"2022":4,"Country":"Mexico"},"geometry":{"type":"Point","coordinates":[-102.289691,23.920061]}},{"type":"Feature","properties":{"1994":2,"1998":2,"2002":5,"2006":7,"2010":7,"2014":4,"2018":2,"2022":5,"Country":"Moldova"},"geometry":{"type":"Point","coordinates":[28.487904,47.435]}},{"type":"Feature","properties":{"1994":5,"1998":4,"2002":5,"2006":4,"2010":3,"2014":5,"2018":4,"2022":3,"Country":"Monaco"},"geometry":{"type":"Point","coordinates":[7.398291,43.739652]}},{"type":"Feature","properties":{"1994":1,"1998":3,"2002":4,"2006":2,"2010":2,"2014":2,"2018":2,"2022":2,"Country":"Mongolia"},"geometry":{"type":"Point","coordinates":[104.159557,4.599339]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":1,"2014":2,"2018":3,"2022":3,"Country":"Montenegro"},"geometry":{"type":"Point","coordinates":[19.157424,42.782845]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":1,"2014":2,"2018":2,"2022":1,"Country":"Morocco"},"geometry":{"type":"Point","coordinates":[-7.189711,31.649504]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":1,"2006":1,"2010":1,"2014":1,"2018":"","2022":"","Country":"Nepal"},"geometry":{"type":"Point","coordinates":[8.360374,28.323184]}},{"type":"Feature","properties":{"1994":21,"1998":22,"2002":27,"2006":35,"2010":34,"2014":41,"2018":34,"2022":41,"Country":"Netherlands"},"geometry":{"type":"Point","coordinates":[4.400394,51.634494]}},{"type":"Feature","properties":{"1994":7,"1998":8,"2002":10,"2006":18,"2010":16,"2014":15,"2018":21,"2022":15,"Country":"New Zealand"},"geometry":{"type":"Point","coordinates":[169.232531,-45.175323]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":"","2018":3,"2022":1,"Country":"Nigeria"},"geometry":{"type":"Point","coordinates":[7.607418,9.404974]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":"","2018":"","2022":3,"Country":"North Macedonia"},"geometry":{"type":"Point","coordinates":[21.547313,41.569245]}},{"type":"Feature","properties":{"1994":88,"1998":76,"2002":77,"2006":81,"2010":99,"2014":134,"2018":109,"2022":84,"Country":"Norway"},"geometry":{"type":"Point","coordinates":[9.680372,61.356908]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":1,"2014":1,"2018":2,"2022":1,"Country":"Pakistan"},"geometry":{"type":"Point","coordinates":[68.546268,29.328493]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":1,"2018":"","2022":"","Country":"Paraguay"},"geometry":{"type":"Point","coordinates":[-62.273913,-38.712336]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":3,"2014":3,"2018":"","2022":1,"Country":"Peru"},"geometry":{"type":"Point","coordinates":[-72.876651,-1.298078]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":1,"2018":2,"2022":1,"Country":"Philipphines"},"geometry":{"type":"Point","coordinates":[121.387948,16.932122]}},{"type":"Feature","properties":{"1994":28,"1998":39,"2002":27,"2006":48,"2010":50,"2014":59,"2018":62,"2022":57,"Country":"Poland"},"geometry":{"type":"Point","coordinates":[20.388926,51.899304]}},{"type":"Feature","properties":{"1994":1,"1998":2,"2002":"","2006":1,"2010":1,"2014":2,"2018":2,"2022":3,"Country":"Portugal"},"geometry":{"type":"Point","coordinates":[-8.266333,39.225448]}},{"type":"Feature","properties":{"1994":5,"1998":6,"2002":2,"2006":"","2010":"","2014":"","2018":1,"2022":2,"Country":"Puerto Rico"},"geometry":{"type":"Point","coordinates":[-66.481065,18.234668]}},{"type":"Feature","properties":{"1994":23,"1998":16,"2002":21,"2006":25,"2010":29,"2014":24,"2018":27,"2022":21,"Country":"Romania"},"geometry":{"type":"Point","coordinates":[24.984652,45.727469]}},{"type":"Feature","properties":{"1994":113,"1998":122,"2002":151,"2006":178,"2010":177,"2014":232,"2018":168,"2022":212,"Country":"Russia"},"geometry":{"type":"Point","coordinates":[93.884016,63.314401]}},{"type":"Feature","properties":{"1994":3,"1998":"","2002":1,"2006":1,"2010":1,"2014":2,"2018":1,"2022":2,"Country":"San Marino"},"geometry":{"type":"Point","coordinates":[12.462139,43.934066]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":"","2018":"","2022":1,"Country":"Saudi Arabia"},"geometry":{"type":"Point","coordinates":[44.700847,23.806678]}},{"type":"Feature","properties":{"1994":1,"1998":"","2002":"","2006":1,"2010":1,"2014":"","2018":"","2022":"","Country":"Senegal"},"geometry":{"type":"Point","coordinates":[-14.768082,15.13855]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":6,"2010":10,"2014":8,"2018":4,"2022":2,"Country":"Serbia and Montenegro"},"geometry":{"type":"Point","coordinates":[38.767057,9.017004]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":"","2018":1,"2022":"","Country":"Singapore"},"geometry":{"type":"Point","coordinates":[5.067018,52.513359]}},{"type":"Feature","properties":{"1994":42,"1998":37,"2002":49,"2006":62,"2010":73,"2014":62,"2018":56,"2022":50,"Country":"Slovakia"},"geometry":{"type":"Point","coordinates":[19.201811,48.752408]}},{"type":"Feature","properties":{"1994":22,"1998":34,"2002":40,"2006":36,"2010":50,"2014":66,"2018":71,"2022":414,"Country":"Slovenia"},"geometry":{"type":"Point","coordinates":[14.932759,46.068735]}},{"type":"Feature","properties":{"1994":2,"1998":2,"2002":1,"2006":3,"2010":2,"2014":"","2018":1,"2022":"","Country":"South Africa"},"geometry":{"type":"Point","coordinates":[23.666291,-29.708985]}},{"type":"Feature","properties":{"1994":13,"1998":12,"2002":7,"2006":16,"2010":18,"2014":20,"2018":13,"2022":14,"Country":"Spain"},"geometry":{"type":"Point","coordinates":[-3.464618,40.09095]}},{"type":"Feature","properties":{"1994":84,"1998":99,"2002":102,"2006":112,"2010":106,"2014":106,"2018":116,"2022":116,"Country":"Sweden"},"geometry":{"type":"Point","coordinates":[19.017205,65.859144]}},{"type":"Feature","properties":{"1994":59,"1998":69,"2002":110,"2006":143,"2010":146,"2014":168,"2018":166,"2022":167,"Country":"Switzerland"},"geometry":{"type":"Point","coordinates":[7.509687,46.730219]}},{"type":"Feature","properties":{"1994":2,"1998":7,"2002":6,"2006":1,"2010":1,"2014":3,"2018":4,"2022":4,"Country":"Chinese Taipei"},"geometry":{"type":"Point","coordinates":[121.549514,25.058464]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":1,"2006":1,"2010":1,"2014":1,"2018":"","2022":"","Country":"Tajikistan"},"geometry":{"type":"Point","coordinates":[72.571946,38.185311]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":1,"2006":1,"2010":"","2014":2,"2018":4,"2022":4,"Country":"Thailand"},"geometry":{"type":"Point","coordinates":[101.301707,15.512883]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":2,"2018":1,"2022":"","Country":"Togo"},"geometry":{"type":"Point","coordinates":[1.073832,8.846267]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":1,"2018":1,"2022":"","Country":"Tonga"},"geometry":{"type":"Point","coordinates":[-17.514127,-21.230852]}},{"type":"Feature","properties":{"1994":2,"1998":2,"2002":2,"2006":"","2010":"","2014":"","2018":"","2022":2,"Country":"Trinidad and Tobago"},"geometry":{"type":"Point","coordinates":[-61.264793,10.435364]}},{"type":"Feature","properties":{"1994":1,"1998":1,"2002":3,"2006":6,"2010":5,"2014":6,"2018":8,"2022":7,"Country":"Turkey"},"geometry":{"type":"Point","coordinates":[34.51052,39.339547]}},{"type":"Feature","properties":{"1994":37,"1998":56,"2002":68,"2006":53,"2010":47,"2014":43,"2018":33,"2022":45,"Country":"Ukraine"},"geometry":{"type":"Point","coordinates":[33.023452,49.219469]}},{"type":"Feature","properties":{"1994":147,"1998":186,"2002":202,"2006":204,"2010":216,"2014":222,"2018":241,"2022":224,"Country":"United States"},"geometry":{"type":"Point","coordinates":[-96.999668,39.715956]}},{"type":"Feature","properties":{"1994":"","1998":1,"2002":"","2006":"","2010":"","2014":"","2018":"","2022":"","Country":"Uruguay"},"geometry":{"type":"Point","coordinates":[-99.269385,19.486486]}},{"type":"Feature","properties":{"1994":7,"1998":4,"2002":6,"2006":4,"2010":3,"2014":3,"2018":2,"2022":1,"Country":"Uzbekistan"},"geometry":{"type":"Point","coordinates":[63.960684,41.726948]}},{"type":"Feature","properties":{"1994":"","1998":1,"2002":4,"2006":1,"2010":"","2014":1,"2018":"","2022":"","Country":"Venezuela"},"geometry":{"type":"Point","coordinates":[-64.568705,7.18646]}},{"type":"Feature","properties":{"1994":8,"1998":7,"2002":8,"2006":1,"2010":"","2014":1,"2018":"","2022":1,"Country":"Virgin Islands"},"geometry":{"type":"Point","coordinates":[-64.783592,17.73951]}},{"type":"Feature","properties":{"1994":"","1998":2,"2002":6,"2006":"","2010":"","2014":"","2018":"","2022":"","Country":"FR Yugoslavia"},"geometry":{"type":"Point","coordinates":[20.589197,44.251791]}},{"type":"Feature","properties":{"1994":"","1998":"","2002":"","2006":"","2010":"","2014":1,"2018":"","2022":"","Country":"Zimbabwe"},"geometry":{"type":"Point","coordinates":[29.946601,-18.919508]}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 2,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 0,
+                "2022": 1,
+                "Country": "American Samoa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.778926,
+                    -14.333216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 1,
+                "2010": 1,
+                "2014": 2,
+                "2018": 2,
+                "2022": 1,
+                "Country": "Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.127352,
+                    40.647186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 2,
+                "2010": 1,
+                "2014": 0,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Algeria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.379277,
+                    2.789689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 6,
+                "1998": 3,
+                "2002": 3,
+                "2006": 3,
+                "2010": 6,
+                "2014": 6,
+                "2018": 5,
+                "2022": 5,
+                "Country": "Andorra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.576286,
+                    42.547076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 10,
+                "1998": 2,
+                "2002": 11,
+                "2006": 9,
+                "2010": 7,
+                "2014": 7,
+                "2018": 7,
+                "2022": 6,
+                "Country": "Argentina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.168459,
+                    -33.528049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 2,
+                "1998": 7,
+                "2002": 9,
+                "2006": 5,
+                "2010": 4,
+                "2014": 4,
+                "2018": 3,
+                "2022": 6,
+                "Country": "Armenia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.480561,
+                    40.474724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 25,
+                "1998": 23,
+                "2002": 27,
+                "2006": 40,
+                "2010": 40,
+                "2014": 61,
+                "2018": 50,
+                "2022": 44,
+                "Country": "Australia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.050443,
+                    -23.992438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 80,
+                "1998": 96,
+                "2002": 90,
+                "2006": 85,
+                "2010": 81,
+                "2014": 130,
+                "2018": 105,
+                "2022": 106,
+                "Country": "Austria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.143702,
+                    47.522617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 4,
+                "2002": 4,
+                "2006": 2,
+                "2010": 2,
+                "2014": 4,
+                "2018": 1,
+                "2022": 2,
+                "Country": "Azerbaijan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.210994,
+                    40.402387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 33,
+                "1998": 59,
+                "2002": 64,
+                "2006": 28,
+                "2010": 51,
+                "2014": 26,
+                "2018": 33,
+                "2022": 29,
+                "Country": "Belarus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.843651,
+                    53.832259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 5,
+                "1998": 1,
+                "2002": 6,
+                "2006": 4,
+                "2010": 8,
+                "2014": 7,
+                "2018": 22,
+                "2022": 19,
+                "Country": "Belgium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.792712,
+                    50.780688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 1,
+                "1998": 1,
+                "2002": 1,
+                "2006": 1,
+                "2010": 1,
+                "2014": 1,
+                "2018": 1,
+                "2022": 0,
+                "Country": "Bermuda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.764346,
+                    32.296698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 0,
+                "2022": 2,
+                "Country": "Bolivia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.661,
+                    -16.640652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 10,
+                "1998": 8,
+                "2002": 2,
+                "2006": 6,
+                "2010": 5,
+                "2014": 5,
+                "2018": 4,
+                "2022": 6,
+                "Country": "Bosnia and Herzegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.806843,
+                    44.091039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 1,
+                "1998": 1,
+                "2002": 10,
+                "2006": 10,
+                "2010": 5,
+                "2014": 13,
+                "2018": 9,
+                "2022": 10,
+                "Country": "Brazil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.542449,
+                    -11.928923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 1,
+                "2018": 0,
+                "2022": 0,
+                "Country": "British Virgin Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.463661,
+                    18.426606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 17,
+                "1998": 19,
+                "2002": 23,
+                "2006": 21,
+                "2010": 19,
+                "2014": 18,
+                "2018": 21,
+                "2022": 16,
+                "Country": "Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.176846,
+                    42.501868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 1,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Cameroon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.473672,
+                    4.585076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 95,
+                "1998": 144,
+                "2002": 150,
+                "2006": 196,
+                "2010": 206,
+                "2014": 222,
+                "2018": 225,
+                "2022": 215,
+                "Country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.384858,
+                    58.33747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 1,
+                "2014": 1,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Cayman Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.230744,
+                    19.319996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 3,
+                "1998": 3,
+                "2002": 6,
+                "2006": 9,
+                "2010": 3,
+                "2014": 6,
+                "2018": 7,
+                "2022": 4,
+                "Country": "Chile"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.288079,
+                    -38.165295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 24,
+                "1998": 55,
+                "2002": 66,
+                "2006": 76,
+                "2010": 90,
+                "2014": 66,
+                "2018": 80,
+                "2022": 176,
+                "Country": "China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.431983,
+                    32.523743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 1,
+                "2014": 0,
+                "2018": 4,
+                "2022": 3,
+                "Country": "Colombia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.166783,
+                    3.420497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 1,
+                "2006": 1,
+                "2010": 0,
+                "2014": 0,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Costa Rica"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.028584,
+                    10.068183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 3,
+                "1998": 6,
+                "2002": 14,
+                "2006": 23,
+                "2010": 19,
+                "2014": 11,
+                "2018": 19,
+                "2022": 11,
+                "Country": "Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.375139,
+                    45.805356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 1,
+                "1998": 1,
+                "2002": 1,
+                "2006": 1,
+                "2010": 2,
+                "2014": 2,
+                "2018": 1,
+                "2022": 1,
+                "Country": "Cyprus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.011051,
+                    34.881852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 63,
+                "1998": 60,
+                "2002": 76,
+                "2006": 85,
+                "2010": 92,
+                "2014": 85,
+                "2018": 93,
+                "2022": 113,
+                "Country": "Czech Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.377705,
+                    4.988233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 4,
+                "1998": 12,
+                "2002": 11,
+                "2006": 5,
+                "2010": 18,
+                "2014": 12,
+                "2018": 17,
+                "2022": 62,
+                "Country": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.018163,
+                    55.966966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 2,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Dominica"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.356841,
+                    15.460196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 1,
+                "2022": 1,
+                "Country": "Timor-Leste"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.866054,
+                    -8.801828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 1,
+                "2022": 1,
+                "Country": "Ecuador"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.322784,
+                    -1.241567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 1,
+                "2022": 1,
+                "Country": "Eritrea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.267404,
+                    15.817362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 26,
+                "1998": 20,
+                "2002": 17,
+                "2006": 26,
+                "2010": 30,
+                "2014": 24,
+                "2018": 22,
+                "2022": 26,
+                "Country": "Estonia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.867131,
+                    58.722853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 1,
+                "2014": 0,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Ethiopia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.896778,
+                    7.996115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 1,
+                "1998": 0,
+                "2002": 1,
+                "2006": 1,
+                "2010": 0,
+                "2014": 0,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Fiji"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.972004,
+                    -17.834016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 61,
+                "1998": 85,
+                "2002": 98,
+                "2006": 102,
+                "2010": 95,
+                "2014": 103,
+                "2018": 100,
+                "2022": 95,
+                "Country": "Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.276469,
+                    63.252357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 98,
+                "1998": 106,
+                "2002": 114,
+                "2006": 89,
+                "2010": 108,
+                "2014": 105,
+                "2018": 106,
+                "2022": 86,
+                "Country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.549047,
+                    46.698481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 5,
+                "1998": 4,
+                "2002": 4,
+                "2006": 3,
+                "2010": 6,
+                "2014": 4,
+                "2018": 4,
+                "2022": 9,
+                "Country": "Georgia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.380775,
+                    3.253951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 112,
+                "1998": 125,
+                "2002": 157,
+                "2006": 164,
+                "2010": 153,
+                "2014": 153,
+                "2018": 156,
+                "2022": 149,
+                "Country": "Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.62743,
+                    51.196755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 1,
+                "2022": 1,
+                "Country": "Ghana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.982714,
+                    7.85125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 32,
+                "1998": 34,
+                "2002": 49,
+                "2006": 40,
+                "2010": 52,
+                "2014": 56,
+                "2018": 58,
+                "2022": 50,
+                "Country": "Great Britain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.193239,
+                    28.598323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 9,
+                "1998": 13,
+                "2002": 10,
+                "2006": 5,
+                "2010": 7,
+                "2014": 7,
+                "2018": 4,
+                "2022": 5,
+                "Country": "Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.708535,
+                    3.978331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 0,
+                "2022": 1,
+                "Country": "Haiti"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.963657,
+                    -34.912318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 2,
+                "2006": 1,
+                "2010": 1,
+                "2014": 1,
+                "2018": 1,
+                "2022": 3,
+                "Country": "Hong Kong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.415769,
+                    2.228552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 16,
+                "1998": 17,
+                "2002": 25,
+                "2006": 20,
+                "2010": 16,
+                "2014": 16,
+                "2018": 19,
+                "2022": 14,
+                "Country": "Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.447899,
+                    47.086857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 5,
+                "1998": 7,
+                "2002": 6,
+                "2006": 5,
+                "2010": 4,
+                "2014": 5,
+                "2018": 5,
+                "2022": 5,
+                "Country": "Iceland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.673522,
+                    64.779262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 1,
+                "2002": 1,
+                "2006": 4,
+                "2010": 3,
+                "2014": 3,
+                "2018": 2,
+                "2022": 1,
+                "Country": "India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.132924,
+                    22.412321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 1,
+                "2002": 2,
+                "2006": 2,
+                "2010": 4,
+                "2014": 5,
+                "2018": 4,
+                "2022": 3,
+                "Country": "Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.245317,
+                    31.931398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 6,
+                "2002": 6,
+                "2006": 4,
+                "2010": 7,
+                "2014": 5,
+                "2018": 5,
+                "2022": 6,
+                "Country": "Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.798618,
+                    53.078731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 1,
+                "1998": 3,
+                "2002": 5,
+                "2006": 5,
+                "2010": 3,
+                "2014": 5,
+                "2018": 10,
+                "2022": 6,
+                "Country": "Israel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.860794,
+                    30.902941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 104,
+                "1998": 112,
+                "2002": 112,
+                "2006": 184,
+                "2010": 109,
+                "2014": 113,
+                "2018": 120,
+                "2022": 118,
+                "Country": "Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.077303,
+                    44.732552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 4,
+                "1998": 6,
+                "2002": 2,
+                "2006": 0,
+                "2010": 1,
+                "2014": 2,
+                "2018": 3,
+                "2022": 7,
+                "Country": "Jamaica"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.29775254458977,
+                    18.168605754400673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 57,
+                "1998": 156,
+                "2002": 103,
+                "2006": 112,
+                "2010": 94,
+                "2014": 113,
+                "2018": 124,
+                "2022": 124,
+                "Country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.441899,
+                    3.613793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 29,
+                "1998": 60,
+                "2002": 50,
+                "2006": 56,
+                "2010": 38,
+                "2014": 52,
+                "2018": 46,
+                "2022": 34,
+                "Country": "Kazakhstan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.258345,
+                    48.401963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 1,
+                "2002": 1,
+                "2006": 1,
+                "2010": 0,
+                "2014": 0,
+                "2018": 1,
+                "2022": 0,
+                "Country": "Kenya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.918308,
+                    0.543716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 8,
+                "2002": 0,
+                "2006": 6,
+                "2010": 2,
+                "2014": 0,
+                "2018": 10,
+                "2022": 0,
+                "Country": "North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.699424,
+                    40.248916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 21,
+                "1998": 37,
+                "2002": 48,
+                "2006": 40,
+                "2010": 46,
+                "2014": 71,
+                "2018": 122,
+                "2022": 64,
+                "Country": "South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.123986,
+                    36.382192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 1,
+                "2022": 2,
+                "Country": "Kosovo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.875449,
+                    42.590239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 1,
+                "1998": 1,
+                "2002": 2,
+                "2006": 1,
+                "2010": 2,
+                "2014": 1,
+                "2018": 2,
+                "2022": 1,
+                "Country": "Kyrgyzstan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.524734,
+                    4.168268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 27,
+                "1998": 29,
+                "2002": 47,
+                "2006": 58,
+                "2010": 59,
+                "2014": 58,
+                "2018": 34,
+                "2022": 57,
+                "Country": "Latvia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.458464,
+                    5.706689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 3,
+                "2010": 3,
+                "2014": 2,
+                "2018": 3,
+                "2022": 3,
+                "Country": "Lebanon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.595658,
+                    34.095838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 10,
+                "1998": 8,
+                "2002": 8,
+                "2006": 6,
+                "2010": 7,
+                "2014": 4,
+                "2018": 3,
+                "2022": 0,
+                "Country": "Liechtenstein"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.559439,
+                    47.111405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 6,
+                "1998": 7,
+                "2002": 8,
+                "2006": 7,
+                "2010": 8,
+                "2014": 9,
+                "2018": 9,
+                "2022": 13,
+                "Country": "Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.089932,
+                    55.103703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 1,
+                "1998": 1,
+                "2002": 0,
+                "2006": 1,
+                "2010": 0,
+                "2014": 1,
+                "2018": 1,
+                "2022": 2,
+                "Country": "Luxembourg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.086636,
+                    49.759178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 3,
+                "2002": 2,
+                "2006": 3,
+                "2010": 3,
+                "2014": 3,
+                "2018": 3,
+                "2022": 0,
+                "Country": "Macedonia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.547313,
+                    41.569245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 1,
+                "2022": 2,
+                "Country": "Madagascar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.704055,
+                    -18.628414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 2,
+                "2022": 2,
+                "Country": "Malaysia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.833569,
+                    2.521947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 1,
+                "2018": 1,
+                "2022": 1,
+                "Country": "Malta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.431432,
+                    35.888972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 1,
+                "1998": 0,
+                "2002": 3,
+                "2006": 0,
+                "2010": 1,
+                "2014": 1,
+                "2018": 4,
+                "2022": 4,
+                "Country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.289691,
+                    23.920061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 2,
+                "1998": 2,
+                "2002": 5,
+                "2006": 7,
+                "2010": 7,
+                "2014": 4,
+                "2018": 2,
+                "2022": 5,
+                "Country": "Moldova"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.487904,
+                    47.435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 5,
+                "1998": 4,
+                "2002": 5,
+                "2006": 4,
+                "2010": 3,
+                "2014": 5,
+                "2018": 4,
+                "2022": 3,
+                "Country": "Monaco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.398291,
+                    43.739652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 1,
+                "1998": 3,
+                "2002": 4,
+                "2006": 2,
+                "2010": 2,
+                "2014": 2,
+                "2018": 2,
+                "2022": 2,
+                "Country": "Mongolia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.159557,
+                    4.599339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 1,
+                "2014": 2,
+                "2018": 3,
+                "2022": 3,
+                "Country": "Montenegro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.157424,
+                    42.782845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 1,
+                "2014": 2,
+                "2018": 2,
+                "2022": 1,
+                "Country": "Morocco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.189711,
+                    31.649504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 1,
+                "2006": 1,
+                "2010": 1,
+                "2014": 1,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Nepal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.360374,
+                    28.323184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 21,
+                "1998": 22,
+                "2002": 27,
+                "2006": 35,
+                "2010": 34,
+                "2014": 41,
+                "2018": 34,
+                "2022": 41,
+                "Country": "Netherlands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.400394,
+                    51.634494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 7,
+                "1998": 8,
+                "2002": 10,
+                "2006": 18,
+                "2010": 16,
+                "2014": 15,
+                "2018": 21,
+                "2022": 15,
+                "Country": "New Zealand"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.232531,
+                    -45.175323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 3,
+                "2022": 1,
+                "Country": "Nigeria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.607418,
+                    9.404974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 0,
+                "2022": 3,
+                "Country": "North Macedonia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.547313,
+                    41.569245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 88,
+                "1998": 76,
+                "2002": 77,
+                "2006": 81,
+                "2010": 99,
+                "2014": 134,
+                "2018": 109,
+                "2022": 84,
+                "Country": "Norway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.680372,
+                    61.356908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 1,
+                "2014": 1,
+                "2018": 2,
+                "2022": 1,
+                "Country": "Pakistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.546268,
+                    29.328493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 1,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Paraguay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.273913,
+                    -38.712336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 3,
+                "2014": 3,
+                "2018": 0,
+                "2022": 1,
+                "Country": "Peru"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.876651,
+                    -1.298078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 1,
+                "2018": 2,
+                "2022": 1,
+                "Country": "Philipphines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.387948,
+                    16.932122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 28,
+                "1998": 39,
+                "2002": 27,
+                "2006": 48,
+                "2010": 50,
+                "2014": 59,
+                "2018": 62,
+                "2022": 57,
+                "Country": "Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.388926,
+                    51.899304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 1,
+                "1998": 2,
+                "2002": 0,
+                "2006": 1,
+                "2010": 1,
+                "2014": 2,
+                "2018": 2,
+                "2022": 3,
+                "Country": "Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.266333,
+                    39.225448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 5,
+                "1998": 6,
+                "2002": 2,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 1,
+                "2022": 2,
+                "Country": "Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.481065,
+                    18.234668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 23,
+                "1998": 16,
+                "2002": 21,
+                "2006": 25,
+                "2010": 29,
+                "2014": 24,
+                "2018": 27,
+                "2022": 21,
+                "Country": "Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.984652,
+                    45.727469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 113,
+                "1998": 122,
+                "2002": 151,
+                "2006": 178,
+                "2010": 177,
+                "2014": 232,
+                "2018": 168,
+                "2022": 212,
+                "Country": "Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.884016,
+                    63.314401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 3,
+                "1998": 0,
+                "2002": 1,
+                "2006": 1,
+                "2010": 1,
+                "2014": 2,
+                "2018": 1,
+                "2022": 2,
+                "Country": "San Marino"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.462139,
+                    43.934066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 0,
+                "2022": 1,
+                "Country": "Saudi Arabia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.700847,
+                    23.806678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 1,
+                "1998": 0,
+                "2002": 0,
+                "2006": 1,
+                "2010": 1,
+                "2014": 0,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Senegal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.768082,
+                    15.13855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 6,
+                "2010": 10,
+                "2014": 8,
+                "2018": 4,
+                "2022": 2,
+                "Country": "Serbia and Montenegro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.767057,
+                    9.017004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 1,
+                "2022": 0,
+                "Country": "Singapore"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.067018,
+                    52.513359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 42,
+                "1998": 37,
+                "2002": 49,
+                "2006": 62,
+                "2010": 73,
+                "2014": 62,
+                "2018": 56,
+                "2022": 50,
+                "Country": "Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.201811,
+                    48.752408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 22,
+                "1998": 34,
+                "2002": 40,
+                "2006": 36,
+                "2010": 50,
+                "2014": 66,
+                "2018": 71,
+                "2022": 44,
+                "Country": "Slovenia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.932759,
+                    46.068735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 2,
+                "1998": 2,
+                "2002": 1,
+                "2006": 3,
+                "2010": 2,
+                "2014": 0,
+                "2018": 1,
+                "2022": 0,
+                "Country": "South Africa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.666291,
+                    -29.708985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 13,
+                "1998": 12,
+                "2002": 7,
+                "2006": 16,
+                "2010": 18,
+                "2014": 20,
+                "2018": 13,
+                "2022": 14,
+                "Country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.464618,
+                    40.09095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 84,
+                "1998": 99,
+                "2002": 102,
+                "2006": 112,
+                "2010": 106,
+                "2014": 106,
+                "2018": 116,
+                "2022": 116,
+                "Country": "Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.017205,
+                    65.859144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 59,
+                "1998": 69,
+                "2002": 110,
+                "2006": 143,
+                "2010": 146,
+                "2014": 168,
+                "2018": 166,
+                "2022": 167,
+                "Country": "Switzerland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.509687,
+                    46.730219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 2,
+                "1998": 7,
+                "2002": 6,
+                "2006": 1,
+                "2010": 1,
+                "2014": 3,
+                "2018": 4,
+                "2022": 4,
+                "Country": "Chinese Taipei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549514,
+                    25.058464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 1,
+                "2006": 1,
+                "2010": 1,
+                "2014": 1,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.571946,
+                    38.185311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 1,
+                "2006": 1,
+                "2010": 0,
+                "2014": 2,
+                "2018": 4,
+                "2022": 4,
+                "Country": "Thailand"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.301707,
+                    15.512883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 2,
+                "2018": 1,
+                "2022": 0,
+                "Country": "Togo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.073832,
+                    8.846267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 1,
+                "2018": 1,
+                "2022": 0,
+                "Country": "Tonga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.514127,
+                    -21.230852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 2,
+                "1998": 2,
+                "2002": 2,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 0,
+                "2022": 2,
+                "Country": "Trinidad and Tobago"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.264793,
+                    10.435364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 1,
+                "1998": 1,
+                "2002": 3,
+                "2006": 6,
+                "2010": 5,
+                "2014": 6,
+                "2018": 8,
+                "2022": 7,
+                "Country": "Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.51052,
+                    39.339547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 37,
+                "1998": 56,
+                "2002": 68,
+                "2006": 53,
+                "2010": 47,
+                "2014": 43,
+                "2018": 33,
+                "2022": 45,
+                "Country": "Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.023452,
+                    49.219469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 147,
+                "1998": 186,
+                "2002": 202,
+                "2006": 204,
+                "2010": 216,
+                "2014": 222,
+                "2018": 241,
+                "2022": 224,
+                "Country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.999668,
+                    39.715956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 1,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Uruguay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.269385,
+                    19.486486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 7,
+                "1998": 4,
+                "2002": 6,
+                "2006": 4,
+                "2010": 3,
+                "2014": 3,
+                "2018": 2,
+                "2022": 1,
+                "Country": "Uzbekistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.960684,
+                    41.726948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 1,
+                "2002": 4,
+                "2006": 1,
+                "2010": 0,
+                "2014": 1,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Venezuela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.568705,
+                    7.18646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 8,
+                "1998": 7,
+                "2002": 8,
+                "2006": 1,
+                "2010": 0,
+                "2014": 1,
+                "2018": 0,
+                "2022": 1,
+                "Country": "Virgin Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.783592,
+                    17.73951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 2,
+                "2002": 6,
+                "2006": 0,
+                "2010": 0,
+                "2014": 0,
+                "2018": 0,
+                "2022": 0,
+                "Country": "FR Yugoslavia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.589197,
+                    44.251791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "1994": 0,
+                "1998": 0,
+                "2002": 0,
+                "2006": 0,
+                "2010": 0,
+                "2014": 1,
+                "2018": 0,
+                "2022": 0,
+                "Country": "Zimbabwe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.946601,
+                    -18.919508
+                ]
+            }
+        }
+    ]
+}
