@@ -1,4 +1,8 @@
-#map { height: 680px; }
+#map { 
+height: 540px; 
+
+
+}
 
 .leaflet-popup-content {
     margin: 0em 0 !important;
@@ -37,28 +41,101 @@
 }  
 
 #intervals {
-    margin-left: 4.5%;
+    margin-left: 9.6%;
     text-align: left;
-    
+    font-family: system-ui;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px whitesmoke,
+    2px 2px 1px whitesmoke;
+    font-size:small;
 }
 #intervalA{
-    margin-left: 1.3%;
+    margin-left: 2.9%;
 }
 #intervalB{
-    margin-left: 1.4%;
+    margin-left: 2.9%;
 }
 #intervalC{
-    margin-left: 1.2%;
+    margin-left: 2.8%;
 }
 #intervalD{
-    margin-left: 1.3%;
+    margin-left: 2.7%;
 }
 #intervalE{
-    margin-left: 1.3%;
+    margin-left: 2.7%;
 }
 #intervalF{
-    margin-left: 1.3%;
+    margin-left: 2.9%;
 }
 #end{
-    margin-left: 1.4%;
+    margin-left: 2.9%;
+    font-family: system-ui;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px whitesmoke,
+    2px 2px 1px whitesmoke;
+    font-size: small;
 }
+
+
+  
+  .range-slider {
+    -webkit-appearance: none;
+
+    height: 20px;
+    background: whitesmoke;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+  }
+  
+  .range-slider:hover {
+    opacity: 1;
+  }
+  
+  .range-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 20px;
+    background: #6495ED;
+    cursor: pointer;
+  }
+  
+  .range-slider::-moz-range-thumb {
+    width: 25px;
+    height: 20px;
+    background: #6495ED;
+    cursor: pointer;
+  }
+
+  .legend-control-container{
+    background-color: white;
+    opacity: 70%;
+    border-radius: 8%;
+    width: 100%;
+  }
+  .temporalLegend{
+      text-align: center;
+      font-weight: bolder;
+  }
+  #attribute-legend{
+    margin: 5%;
+    width: 90%;
+  }
+
+  h1{
+    height: 10%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    width: 100%;
+    text-shadow: 1px 1px 1px whitesmoke,
+               2px 2px 1px whitesmoke;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    
+  }
+  #olympicImg{
+      width: 5%;
+      margin-right: 15%;
+  }
+
